@@ -52,6 +52,3 @@ This app turns abstract concepts into visual, interactive insights.
 2.  Step through execution line by line
 3.  Observe live visualizations of stack, variables, and memory
 4.  Compare complexity metrics across different inputs
-
-## Why It Matters  
-Seeing code *execute*—not just run—builds deeper intuition, improves debugging skills, and reinforces memory through visual learning. This tool aims to make complex computational concepts tangible, accessible, and engaging.
